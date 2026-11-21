@@ -1,0 +1,5 @@
+Name - Kamini Singh 
+Admission Number = 2026B01010738
+Course = Btech
+Branch = CSE 
+Section = CSE-7

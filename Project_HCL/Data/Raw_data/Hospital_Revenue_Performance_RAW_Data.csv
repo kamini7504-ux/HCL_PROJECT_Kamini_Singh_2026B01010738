@@ -1,0 +1,101 @@
+Admission_ID,Patient_ID,Age,Gender,Department,Admission_Type,Admission_Date,Discharge_Date,Length_of_Stay_Days,Ward_Type,Attending_Doctor_ID,Payer_Type,Outcome
+ADM-2026-0001,PT-189116,44,Male,  Gen Med  ,Elective,2026-01-06,2026-01-10,4,General,DOC-GEN-03,Government scheme,Recovered
+ADM-2026-0002,PT-174989,25,Male,Nephrology,elective,07/01/2026,2026-01-11,4,General ,DOC-NEP-03,Self-Pay,LAMA
+ADM-2026-0003,PT-122588,43,Male,Nuerology,Emergency,08-Jan-2026,2026-01-13,5,Semi-Private,DOC-NEU-03,Corporate,Recovered
+ADM-2026-0004,PT-102044,51,MALE,Orthopedics,Elective,2026-01-13,2026-01-22,9,Private,DOC-ORT-01,PRIVATE INSURANCE,Recovered
+ADM-2026-0005,PT-105203,81,MALE,Cardio,Emergency,15/01/2026,2026-01-19,N/A,General,doc-car-03,Self-Pay,Left Against Medical Advice
+ADM-2026-0006,PT-156328,22,Male,ER & CC,Emergency,15-Jan-2026,19/01/2026,4,ICU,DOC-ECC-03,Self-Pay,Improved
+ADM-2026-0007,PT-143109,,f,Cardiology,Emergency,19/01/2026,23/01/2026,4,General ,DOC-CAR-01,Self Pay,Recovered
+ADM-2026-0008,PT-185541,16 years,m,emergency & critical care,Emergency,25/01/2026,2026-01-28,3,Semi-Private,,Private Insurance,Recovered
+ADM-2026-0009,PT-163354,72,female,Nuerology,Elective,28-Jan-2026,2026-02-04,7 days,ICU ,DOC-NEU-03,Private Insurance,Recovered
+ADM-2026-0010,PT-121253,N/A,F,Obstetrics & Gynecology,Emergency,02-Feb-2026,2026-02-05,3,General,DOC-OBG-02,Corporate,Improved
+ADM-2026-0011,PT-111906,48,Female,Nephrology,Elective,2026-02-04,08-Feb-2026,4,Private,DOC-NEP-03,Self-Pay  ,LAMA
+ADM-2026-0012,,2,Female,Pediatrcs,EMERGENCY,2026-02-08,2026-02-12,null,general,DOC-PED-01,Pvt Insurance  ,Recovered
+ADM-2026-0013,PT-119283,250,Female,Pediatrics,Emergency,null,2026-02-22,3,General,DOC-PED-01,Private Insurance,Recovered
+ADM-2026-0014,PT-160915,1,MALE,PEDIATRICS,Elective,2026-02-26,2026-03-03,5,Private,DOC-PED-01,Self-Pay,Recovered
+ADM-2026-0015,PT-101539,17,Female,Gastroenterology,emergency,03-Mar-2026,2026-03-07,4,General,DOC-GAS-02,Government Scheme,NA
+ADM-2026-0016,PT-117839,13,Male,Pediatrics,,2026-03-04,2026-03-07,3,Private,DOC-PED-03,Private Insurance,Referred
+ADM-2026-0017,PT-104557,62,Female,Oncology,Emergency,2026-03-06,2026-03-11,5,private,DOC-ONC-03,Private Insurance,Recovered
+ADM-2026-0018,PT-162675,41,Male,Nephrolgy,Emergency,2026-03-07,2026-03-13,6,Semi-Private,DOC-NEP-02,Private Insurance,RECOVERED
+ADM-2026-0019,PT-179042,71,Male,Emergency & Critical Care,EMERGENCY,2026-03-12,2026-03-16,4,Private,DOC-ECC-01,corporate,Improved
+ADM-2026-0020,PT-187478,54,M,Ortho,Elective,2026-03-18,15-Mar-2026,-3,General,DOC-ORT-02,Government Scheme,Recovered
+ADM-2026-0021,PT-113403,45,male,Emergency & Critical Care,Emergency ,22/03/2026,26-Mar-2026,4,Private,DOC-ECC-02,Private Insurance,improved
+ADM-2026-0022,PT-184130,26,F,obs & gynae,Elective,2026-03-22,2026-03-25,3,Private,doc-obg-02,  Self-Pay ,LAMA
+ADM-2026-0023,PT-128391,1,Female,Pediatrics,Elective,2026-03-23,26/03/2026,3,Private,DOC-PED-02,Self-Pay,Improved
+ADM-2026-0024,PT-169801,52,female,Gastroenterology,Elective,23-Mar-2026,2026-03-25,2,Semi-Private,DOC-GAS-02,Corp,Improved
+ADM-2026-0025,PT-120876,49,Female,Nephrology,Elective ,2026-03-29,02/04/2026,4,Private,doc-nep-03,private insurance,Improved
+ADM-2026-0026,PT-126937,42,female,Orthopedics,Elective,31-Mar-2026,08-Apr-2026,8,Private,DOC-ORT-03,Private Insurance,RECOVERED
+ADM-2026-0027,PT-158404,70,m,Oncology,Elective,2026-04-11,2026-04-15,4,Semi-Private,DOC-ONC-03,Self-Pay,Recovered
+ADM-2026-0028,PT-101813,38,Male,Emergency & Critical Care,Emergency,13/04/2026,2026-04-17,null,General,DOC-ECC-01,corporate,
+ADM-2026-0029,PT-178857,16,Male,orthopedics,Elective,2026-05-07,2026-05-09,2,Private,DOC-ORT-03,Government Scheme,Improved
+ADM-2026-0030,PT-180909,42,F,Obstetrics & Gynecology,Elective,2026-05-08,2026-05-12,4,General,DOC-OBG-01,Corporate,Recovered 
+ADM-2026-0031,null,27,Female,Obstetrics & Gynecology,Emergency,2026-05-11,NA,4,SemiPrivate,DOC-OBG-02,Self-Pay,Recovered
+ADM-2026-0032,PT-130762,66,Female,Orthopaedics,Elective,2026-05-16,2026-05-20,4,Semi-Private,DOC-ORT-01,PRIVATE INSURANCE,Recovered
+ADM-2026-0033,PT-177723,12,Female,Pediatrics,Elective,2026-05-17,2026-05-20,3,general,DOC-PED-02,Self-Pay,Improved
+ADM-2026-0034,PT-109629,16,Female,Emergency & Critical Care,Emergency,19/05/2026,2026-05-22,3,ICU,DOC-ECC-01,private insurance,Recovered
+ADM-2026-0035,PT-185462,53,m,Cardiology,Elective,2026-05-20,2026-05-23,3,General,DOC-CAR-02,Private Insurance,Recovered
+ADM-2026-0036,PT-152075,26,MALE,General Medicine,Emergency ,2026-05-27,2026-05-31,4,Semi-Private,DOC-GEN-01,Pvt Insurance,Improved 
+ADM-2026-0037,PT-168170,54,f,General Medicine,Elective,28-May-2026,2026-06-01,4,General,DOC-GEN-03,corporate,Improved
+ADM-2026-0038,PT-195305,25,male,Emergency & Critical Care,Emergency,2026-05-30,2026-06-05,6,ICU,DOC-ECC-03,Pvt Insurance,Improved
+ADM-2026-0039,PT-129571,44,Female,Emergency/Critical Care,Emergency,31-May-2026,06-Jun-2026,6,ICU,DOC-ECC-01,Corporate,Recovered
+ADM-2026-0040,PT-182176,22,Female,Emergency & Critical Care,Emergency ,03/06/2026,,3,icu,DOC-ECC-03,Private Insurance,Recovered
+ADM-2026-0041,PT-103842,20,female,Obstetrics & Gynecology,Emergency,07-Jun-2026,-,4,Private,DOC-OBG-03,Private Insurance,Recovered
+ADM-2026-0042,PT-115720,1,f,Pediatrics,Elective,NA,2026-06-10,-3,Semi Private,DOC-PED-01,Self-Pay,Recovered
+ADM-2026-0043,PT-118277,37,Male,Orthopaedics,EMERGENCY,15/06/2026,2026-06-19,4,Semi Private,DOC-ORT-03,private insurance,Recovered
+ADM-2026-0044,PT-134515,64,Female,Ortho,Elective,17-Jun-2026,22/06/2026,5,semi-private,DOC-ORT-02,Private Insurance,Recovered
+ADM-2026-0045,PT-109703,37,f,GENERAL MEDICINE,Elective,20/06/2026,N/A,5,GENERAL,DOC-GEN-03,Private Insurance,Recovered
+ADM-2026-0046,PT-165094,37,Female, Oncology ,Elective,2026-06-22,2026-06-26,4,GENERAL,DOC-ONC-01,  PRIVATE INSURANCE  ,Recovered
+ADM-2026-0047,PT-103453,35 yrs,MALE,Gastroenterology,elective,2026-06-30,2026-07-06,6,General,DOC-GAS-02,Private Insurance,Referred
+ADM-2026-0048,PT-194879,16,Male,Emergency & Critical Care,Emergency,2026-07-02,2026-07-09,7,Icu,DOC-ECC-02,Self-Pay,recovered
+ADM-2026-0049,PT-154449,65,Male,Oncology,Elective,2026-07-09,14-Jul-2026,5,General,DOC-ONC-03,Cash,Recovered
+ADM-2026-0050,PT-199075,67,Male,General Medicine,Emergency,09-Jul-2026,2026-07-12,3,Semi-Private,DOC-GEN-02,Government Scheme,recovered
+ADM-2026-0051,PT-128746,2,m,Paediatrics,Elective,2026-07-14,2026-07-11,-3,Semi-Private,DOC-PED-03,Private Insurance,Improved
+ADM-2026-0052,PT-129908,67,Male,Emergency & Critical Care,Emergency,2026-07-15,21-Jul-2026,6,Private,DOC-ECC-01,Corporate,LAMA
+ADM-2026-0053,PT-165106,46,Male,General Medicine,Emergency,2026-07-15,19/07/2026,4,PRIVATE,DOC-GEN-03,Pvt Insurance,Recovered
+ADM-2026-0054,PT-147308,52,male,General Medicine,Emergency,2026-07-17,22-Jul-2026,5 days,general,DOC-GEN-01,Corporate,Recovered
+ADM-2026-0055,PT-180223,83,Male,Cardiology,Emergency,N/A,2026-07-22,5,private,N/A,Self-Pay,Recovered
+ADM-2026-0056,PT-184844,16,male,Gastro,Emergency ,17-Jul-2026,2026-07-21,4 days,GENERAL,DOC-GAS-01,Pvt Insurance,LAMA
+ADM-2026-0057,PT-171031,73,F, General Medicine  ,Emergency,2026-07-18,2026-07-21,3,Private,DOC-GEN-03,Private Insurance,Recovered
+ADM-2026-0058,PT-190076,61,Male,Cardio ,Emergency,26/07/2026,2026-07-30,4,SemiPrivate,DOC-CAR-02,Private Insurance,LAMA
+ADM-2026-0059,PT-133620,48,Male,Emergency & Critical Care,Emergency,2026-07-28,2026-07-31,3,icu,DOC-ECC-02,Self-Pay,LAMA
+ADM-2026-0060,PT-146556,50,m, Orthopedics  ,Elective,2026-07-30,2026-08-02,3,private,DOC-ORT-03,private insurance,Recovered
+ADM-2026-0061,PT-152497,5,Male,pediatrics,ELECTIVE,2026-08-06,2026-08-09,3,General,DOC-PED-03,Private Insurance,Recovered
+ADM-2026-0062,PT-130809,41,Female,Oncology,Elective,2026-08-16,2026-08-20,4,General,DOC-ONC-01,SELF PAY,Recovered
+ADM-2026-0063,PT-164685,54,Male,Emergency & Critical Care,Emergency,2026-08-16,2026-08-23,7,Semi-Private,DOC-ECC-02,Private Insurance,RECOVERED
+ADM-2026-0064,PT-191612,26,Male,Emergency & Critical Care,Emergency,2026-08-22,26/08/2026,4,Private,DOC-ECC-02,Govt Scheme,Recovered
+ADM-2026-0065,PT-170742,31,Male,  General Medicine ,Elective,2026-08-23,2026-08-27,-,ICU,DOC-GEN-01,self-pay,Recovered
+ADM-2026-0066,PT-140571,51,Male,Orthopaedics,ELECTIVE,2026-08-24,28/08/2026,4,Semi-Private,doc-ort-02,Self-Pay,Recovered
+ADM-2026-0067,PT-179936,73,Male,Nuerology,Emergency,2026-08-26,01/09/2026,6,Private,DOC-NEU-03,Govt Scheme,Recovered
+ADM-2026-0068,PT-151047,42,m,NEUROLOGY,elective,2026-08-27,2026-09-04,8,Semi-Private,DOC-NEU-01,Self-Pay,IMPROVED
+ADM-2026-0069,PT-163842,-2,Male,gastroenterology,Emergency,27-Aug-2026,2026-09-01,5,Semi-Private,DOC-GAS-03,Cash,Recovered
+ADM-2026-0070,PT-131351,29,Female,general medicine,Elective,2026-08-28,2026-09-02,5,PRIVATE,DOC-GEN-02,Self-Pay,Recovered
+ADM-2026-0071,PT-184374,40,Male,General Medicine,Elective,,2026-09-01,4,General,null,Private Insurance,Recovered
+ADM-2026-0072,PT-116048,11,Female,Paediatrics,emergency,,2026-09-03,3,General,DOC-PED-01,Private Insurance,recovered
+ADM-2026-0073,PT-170534,31,Female,Obstetrics & Gynecology,-,03/09/2026,null,4,SemiPrivate,DOC-OBG-01,Self-Pay,Recovered
+ADM-2026-0074,PT-110015,56,FEMALE,Gastroentrology,Emergency,2026-09-04,2026-09-09,5,Semi-Private,DOC-GAS-01,Self-Pay,Recovered
+ADM-2026-0075,PT-116433,25 years,female,Obstetrics & Gynecology,Emergency,2026-09-06,09/09/2026,3,General,doc-obg-02,Private Insurance,Improved
+ADM-2026-0076,PT-199376,31,Male,Gastroenterology,Emergency ,2026-09-07,10-Sep-2026,3,private,DOC-GAS-02,Self Pay,Improved
+ADM-2026-0077,PT-105277,41,Female,General Medicine,Emergency,2026-09-08,,3,ICU,DOC-GEN-03,Private Insurance,RECOVERED
+ADM-2026-0078,PT-167333,16,female,General Medicine,Elective,2026-09-09,2026-09-13,4,GENERAL,DOC-GEN-01,Corporate,Improved
+ADM-2026-0079,PT-177161,64,Female,ER & CC,Emergency,2026-09-09,15/09/2026,6,ICU,DOC-ECC-03,Insurance,Recovered
+ADM-2026-0080,PT-190534,35,Female,Obstetrics & Gynecology,elective,10/09/2026,14/09/2026,4,Semi-Private,DOC-OBG-02,Government Scheme,Recovered
+ADM-2026-0081,PT-178878,17,Male,Orthopedics,Elective,15-Sep-2026,2026-09-23,8,Semi-Private,DOC-ORT-03,Private Insurance,Improved
+ADM-2026-0082,PT-198566,22,female,General Medicine,Emergency,2026-09-17,20-Sep-2026,3,General,DOC-GEN-02,PRIVATE INSURANCE,Recovered
+ADM-2026-0083,PT-161114,16,Male,General Medicine,Elective,NA,2026-09-23,4,General,doc-gen-01,Government scheme,Recovered
+ADM-2026-0084,PT-173216,,Female,Pediatrics,Elective,2026-09-19,2026-09-23,4,General,DOC-PED-02,Self-Pay,Referred to higher centre
+ADM-2026-0085,PT-186330,31,female,Orthopedics,Elective,2026-09-20,2026-09-28,8,General,DOC-ORT-02,Private Insurance,RECOVERED
+ADM-2026-0086,PT-166784,10,M,Pediatrics,Emergency,2026-09-22,2026-09-26,4,General,DOC-PED-02,Self-Pay,recovered
+ADM-2026-0087,PT-176354,14,Female,PEDIATRICS,Elective,2026-09-23,2026-09-26,3,General,DOC-PED-03,Self-Pay,RECOVERED
+ADM-2026-0088,PT-146429,60,Male,Oncolgy,Elective,2026-09-24,2026-09-28,4,semi-private,DOC-ONC-03,  Self-Pay ,Recovered
+ADM-2026-0015,PT-101539,17,Female,Gastroenterology,emergency,03-Mar-2026,2026-03-07,4,General,DOC-GAS-02,Government Scheme,NA
+ADM-2026-0090,PT-142222,27,Male,General Medicine,Emergency,2026-09-26,30/09/2026,4,Private,DOC-GEN-02,Self-Pay,Recovered
+ADM-2026-0091,PT-194313,16,male,emergency & critical care,Emergency,2026-10-01,2026-10-03,2,ICU,DOC-ECC-01,Government Scheme,Recovered
+ADM-2026-0092,PT-137991,16,Male,General Medicine,Emergency,04/10/2026,null,4,Private,DOC-GEN-01,Self Pay,Left Against Medical Advice
+ADM-2026-0093,PT-120418,19,f,Gastroenterology,Elective,2026-10-05,08-Oct-2026,3,General,DOC-GAS-03,Self-Pay,Recovered
+ADM-2026-0094,PT-163517,78,male,Orthopedics  ,Elective,2026-10-06,2026-10-13,7,Private,DOC-ORT-01,Private Insurance,recovered
+ADM-2026-0095,PT-187885,38,Female,Emergency & Critical Care,Elective,2026-10-07,2026-10-10,3,icu,DOC-ECC-03,Private Insurance,Recovered
+ADM-2026-0096,PT-121349,63,Male,Gastroentrology,Elective,,2026-10-18,3,General,DOC-GAS-01,Insurance,recovered
+ADM-2026-0042,PT-115720,1,f,Pediatrics,Elective,NA,2026-06-10,-3,Semi Private,DOC-PED-01,Self-Pay,Recovered
+ADM-2026-0098,PT-114477,26,female,OBG,Elective,21-Oct-2026,25-Oct-2026,4,General,doc-obg-03,Private Insurance,Recovered
+ADM-2026-0099,PT-143236,27,Female,gastroenterology,Elective,,2026-10-25,4,Private,DOC-GAS-01,Private Insurance,Recovered
+ADM-2026-0100,PT-141835,27,m,General Medicine,Emergency,22-Oct-2026,2026-10-28,6,General,DOC-GEN-01,Self-Pay,Improved
